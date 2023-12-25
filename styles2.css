@@ -1,0 +1,104 @@
+
+.center-box {
+    background-color: #4169e1;
+    padding: 0px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 0px; 
+  
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:Lobster,Verdana, Tahoma, sans-serif;
+    background-size: cover;
+    background-color: #87cefa;
+    text-align: center;
+}
+
+header {
+    background-color: lightcyan;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+nav a:hover {
+    background-color: blue; 
+}
+
+main {
+    padding: 20px;
+}
+
+.intro {
+    max-width: 600px;
+    margin: auto;
+    background-color: #4169e1; 
+    padding: 20px;
+    border-radius: 8px;
+    font-family:Lobster,Verdana, Tahoma, sans-serif;
+}
+
+.intro h2 {
+    color: #000; 
+}
+
+/* Adjust the size of the Profile Pic image */
+.intro img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: auto;
+}
+
+/* Add styling for the paragraph */
+.intro p {
+    color: black; 
+    margin-top: 20px; 
+}
+
+/* Footer styling */
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer p {
+    color: #fff;
+    margin: 10px 0;
+}
+
+footer a:hover {
+    color: 	#40d46a;
+}
